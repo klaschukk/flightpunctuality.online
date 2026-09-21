@@ -1,4 +1,4 @@
-# Flight Punctuality
+<a href="https://flightpunctuality.online"><img src="docs/banner.svg" alt="Flight Punctuality — flight delay statistics" width="100%"></a>
 
 **How often does a flight or route actually run late — and what does EU261 owe you when it does?** Delay statistics built from public flight records, not from an airline's own marketing figure.
 
